@@ -8,13 +8,13 @@ Clash简单易用的配置文件。下载配置文件后，仅需修改ss或vmes
 [@Loyalsoldier](https://github.com/Loyalsoldier/)<br>
 [@Hackl0us](https://github.com/Hackl0us)
 
-#使用说明
+# 使用说明
 ## Windows使用说明
 1. 下载clash_profile.yaml文件；
 2. 将下载得到的文件内容，替换$HOME/.config/clash/config.yaml；此处的$HOME是C盘-用户-“对应的用户文件夹”
-3. 使用文本编辑器修改文件，修改其中proxies下的ss或vmess服务器信息；
+3. 使用文本编辑器修改config.yaml文件，修改其中proxies下的ss或vmess服务器信息；
 4. 修改proxy-groups中的proxies名称（为第3步创建的ss或vmess服务器name）；
 5. 启用系统代理，畅享互联网。
 
-##macOS使用说明
+## macOS使用说明
 
